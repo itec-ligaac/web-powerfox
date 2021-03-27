@@ -113,20 +113,7 @@ nav ul li {
 	width: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.navigatie {
+	text-decoration: none;
+	color: black !important;
+}

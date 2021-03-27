@@ -1,3 +1,6 @@
+* {
+  text-decoration: none;
+}
 nav {
 	position: sticky;
 	top: 0;
@@ -19,12 +22,12 @@ nav > img {
 nav ul {
 	list-style-type: none;
 	display: flex;
+  margin-right: 20rem;
 }
 
 nav ul li {
-	margin-left: 2rem;
   margin-right: 3rem;
-  margin-top: 0.5rem;
+  margin-top: 1rem;
 	font-size: 1rem;
 }
 
@@ -37,4 +40,9 @@ nav ul li {
 
 .nav-to-right img {
 	width: 2rem;
+}
+
+.navigatie{
+  text-decoration: none;
+  color: black !important;
 }
