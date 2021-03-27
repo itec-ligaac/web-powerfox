@@ -105,7 +105,13 @@ nav ul li {
 	color: white;
 }
 
-
+.touristic_sites_galery{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
 
 
 
