@@ -50,5 +50,24 @@ nav ul li {
 
 .nav-to-right img {
 	width: 3.5rem;
-	
+}
+
+.slider {
+	margin: 0 auto;
+	width: 99%;
+	height: 350px;
+	/* background-color: red; */
+}
+
+.slider div {
+	width: 100%;
+	height: 100%;
+}
+.slider div img {
+	width: 100%;
+	height: 100%;
+}
+.cool_title{
+	position: absolute;
+	top: 0;
 }
