@@ -1,0 +1,40 @@
+nav {
+	position: sticky;
+	top: 0;
+	display: flex;
+	width: 100%;
+	height: 4.5rem;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #fff;
+}
+
+nav > img {
+	margin-left: 1rem;
+	border-radius: 15px;
+	width: 3.5rem;
+	height: 3.5rem;
+}
+
+nav ul {
+	list-style-type: none;
+	display: flex;
+}
+
+nav ul li {
+	margin-left: 2rem;
+  margin-right: 3rem;
+  margin-top: 0.5rem;
+	font-size: 1rem;
+}
+
+.nav-to-right {
+	display: flex;
+	width: 9rem;
+	justify-content: center;
+	align-items: center;
+}
+
+.nav-to-right img {
+	width: 2rem;
+}
