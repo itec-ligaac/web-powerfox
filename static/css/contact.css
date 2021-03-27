@@ -1,0 +1,51 @@
+.cont {
+  padding: 3px 2px;
+}
+
+img {
+  border-radius: 10px;
+  margin: 0 25rem;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #004d4d;
+  padding: 2rem 20rem;
+  color: white;
+}
+
+.carousel-item {
+  display: block;
+  padding: 5rem 10rem;
+  width: 10%;
+  align-items: center;
+}
+
+.subtext {
+    margin: 0 25rem;
+    padding: 3rem 0 0;
+}
+
+.intro {
+  padding: 3.5rem 25rem 1.5rem;
+}
+
+.row {
+  padding: 1rem 25rem;
+}
+
+.inputuri {
+  width:20rem;
+  padding: 0 25rem 3rem;
+}
+
+.padd {
+  padding: 0 0 1rem;
+}
+
+.footer {
+  text-align: center;
+  padding: 3rem 0 2rem;
+  background-color: #004d4d;
+  color: white;
+}
